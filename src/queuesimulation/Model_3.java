@@ -7,8 +7,7 @@ import object.*;
 import random.ConstantSequence;
 import random.ExponentialSequence;
 import random.UniformSequence;
-import sun.lwawt.macosx.CSystemTray;
-import sun.nio.cs.ext.MacHebrew;
+
 
 /**
  * Simulating of queuing system with waiting room
